@@ -11,5 +11,5 @@ Further documentation will follow.
 * [Django](https://www.django-rest-framework.org/)
 * [Django_rest_framework](https://www.djangoproject.com/)
 * [django-filter](https://github.com/carltongibson/django-filter/tree/master) to create data-filters
-* [Postgresql](https://www.postgresql.org/) for the database. 
+* [Postgresql](https://www.postgresql.org/) for the database
 
