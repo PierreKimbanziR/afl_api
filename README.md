@@ -1,5 +1,5 @@
 # afl_api
-A simple Rest_api which provided the statics of all [AFL](https://www.afl.com.au/) (Australian Football League) players. 
+A simple Rest_api which providing the statics of all [AFL](https://www.afl.com.au/) (Australian Football League) players. 
 ## Why : 
 As a fan of AFL, I was looking for a solution to access detailed player statistics and integrate them into a website afterwards. 
 I took the bull by the horns and decided to create an api by myself. 
